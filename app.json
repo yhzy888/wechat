@@ -5,8 +5,8 @@
   ],
   "window":{
     "backgroundTextStyle":"light",
-    "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "WeChat",
-    "navigationBarTextStyle":"black"
+    "navigationBarBackgroundColor": "#B136B9",
+    "navigationBarTitleText": "仿天猫抽奖",  
+    "navigationBarTextStyle":"#ffffff"
   }
 }
